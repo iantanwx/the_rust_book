@@ -1,0 +1,6 @@
+[package]
+name = "trb"
+version = "0.1.0"
+authors = ["Ian Tan <iantanwx@gmail.com>"]
+
+[dependencies]
