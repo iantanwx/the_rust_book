@@ -1,0 +1,6 @@
+[package]
+name = "ch01"
+version = "0.1.0"
+authors = ["Ian Tan <ian.tan@techinasia.com>"]
+
+[dependencies]

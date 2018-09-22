@@ -1,0 +1,7 @@
+[package]
+name = "ch02"
+version = "0.1.0"
+authors = ["Ian Tan <ian.tan@techinasia.com>"]
+
+[dependencies]
+rand = "0.3.14"
